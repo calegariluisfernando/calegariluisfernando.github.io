@@ -48,3 +48,7 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.lead {
+  font-size: 1rem;
+}
